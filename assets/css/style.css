@@ -650,7 +650,7 @@ p.address{
         margin-right: -10px;
     }
     .choose-shirt{
-        left: 22%;
+        left: 20%;
     }
     .col-md-7{
         margin-top: 160px;
@@ -684,7 +684,7 @@ p.address{
         margin-left: 50px;
     }
     .choose-shirt{
-        left: 5%;
+        left: auto;
     }
     .shirt-color{
         width: 100%;
