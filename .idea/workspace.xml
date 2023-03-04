@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="814c9fe1-43e9-4c93-bcc0-05a6f9301709" name="Changes" comment="" />
+    <list default="true" id="814c9fe1-43e9-4c93-bcc0-05a6f9301709" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,8 +44,8 @@
       <recent name="C:\laragon\www\tradisikebaya\assets\svg" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\laragon\www\tradisikebaya\assets\data" />
       <recent name="C:\laragon\www\tradisikebaya\assets\img" />
+      <recent name="C:\laragon\www\tradisikebaya\assets\data" />
       <recent name="C:\laragon\www\tradisikebaya\public" />
     </key>
   </component>
@@ -55,7 +58,8 @@
       <option name="presentableId" value="Default" />
       <updated>1677910300353</updated>
       <workItem from="1677910301745" duration="28020000" />
-      <workItem from="1677946303029" duration="715000" />
+      <workItem from="1677946303029" duration="904000" />
+      <workItem from="1677970208910" duration="329000" />
     </task>
     <servers />
   </component>
