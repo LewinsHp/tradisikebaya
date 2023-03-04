@@ -684,7 +684,7 @@ p.address{
         margin-left: 50px;
     }
     .choose-shirt{
-        left: auto;
+        left: -10px;
     }
     .shirt-color{
         width: 100%;
